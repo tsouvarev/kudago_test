@@ -1,6 +1,6 @@
 from dateutil import parser
 from feeds.models import Item
-from kudago_parsers import BaseParser
+from kudago_parsers.kudago_parsers import BaseParser
 
 
 class AfishaRssParser(BaseParser):

@@ -5,7 +5,7 @@ from hamcrest import *
 from mock import patch, PropertyMock
 import os
 from feeds.models import Item
-from kudago_parsers import Importer
+from kudago_parsers.kudago_parsers import Importer
 
 
 def make_xml_path(path):
