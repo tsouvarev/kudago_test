@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+    <title>Афиша-Город. Новости</title>
+    <link>http://gorod.afisha.ru</link>
+    <description>Город: Все, что происходит в Москве: новости 24 часа в сутки 7 дней в неделю</description>
+    <atom:link href="http://gorod.afisha.ru/export/rss/" rel="self"/>
+    <language>ru-ru</language>
+    <lastBuildDate>Thu, 30 Apr 2015 21:45:00 +0300</lastBuildDate>
+    <item>
+        <title>Планы на выходные: «Скотобойня», парки, квесты и еще 12 способов весело провести майские праздники</title>
+        <link>http://gorod.afisha.ru/entertainment/skotoboynya-parki-kvesty-i-eshche-12-sposobov-veselo-provesti-mayskie-prazdniki/</link>
+        <description1>На майские праздники принято уезжать или погружаться головой в череду пикников с шашлыками.</description1>
+        <description2>Для тех, у кого нет возможности, выбраться за город, «Афиша» нашла 15 интересных занятий на четыре выходных дня. Открытие сезона в парках</description2>
+        <pubDate>Thu, 30 Apr 2015 21:45:00 +0300</pubDate>
+        <guid>http://gorod.afisha.ru/entertainment/skotoboynya-parki-kvesty-i-eshche-12-sposobov-veselo-provesti-mayskie-prazdniki/</guid>
+        <enclosure url="http://img03.rl0.ru/afisha/c128x85/gorod.afisha.ru/uploads/images/2/52/252292168446476881d3bd6e319fcfaa.jpg" length="10000" type="image/jpeg"/>
+    </item>    
+</channel>
+</rss>
